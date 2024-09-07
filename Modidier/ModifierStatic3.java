@@ -8,7 +8,7 @@
 Static Varible
  // create a class Area/ Method
 // Static Varible is also accessable by class Name and object Name.
-// We cann't Create a Same varible Name in Same class  -> Static and non Static
+// We cann't Create a Same varible Name in Same class  -> Even it is Static and non Static.
 class A { 
 	// State
 	 int val;       // Object Varible/ Non Static Varible/ instance Varible
